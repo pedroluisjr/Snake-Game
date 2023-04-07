@@ -103,22 +103,13 @@ nav{
     transition: all .3s linear;
   }
   nav li:nth-child(1) a{
-    background: #4267B2;
-  }
-  nav li:nth-child(2) a{
-    background: #1DA1F2;
-  }
-  nav li:nth-child(3) a{
     background: #E1306C;
   }
-  nav li:nth-child(4) a{
+  nav li:nth-child(2) a{
     background: #2867B2;
   }
-  nav li:nth-child(5) a{
+  nav li:nth-child(3) a{
     background: #333;
-  }
-  nav li:nth-child(6) a{
-    background: #ff0000;
   }
   nav li a i{
     position:absolute;
